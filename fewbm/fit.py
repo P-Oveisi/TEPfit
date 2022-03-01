@@ -1,4 +1,8 @@
-# Pytorch 
+# This model was developed by Zheng Wang (https://github.com/JohnWangDataAnalyst) and Davide Momi (https://github.com/Davi1990)
+# based on the Wong-Wang-Deco neural mass model [Deco, G., Ponce-Alvarez, A., Hagmann, P., Romani, G.L., Mantini, D., Corbetta,
+# M., 2014. How Local Excitation–Inhibition Ratio Impacts the Whole Brain Dynamics. J. Neurosci. 34, 7886–7898. 
+# https://doi.org/10.1523/JNEUROSCI.5068-13.2014]
+
 
 
 """
